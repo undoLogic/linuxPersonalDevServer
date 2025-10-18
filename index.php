@@ -6,7 +6,7 @@ $scriptUrl = "https://raw.githubusercontent.com/undoLogic/LINUX-Personal-Server/
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>download-LINUX-Personal-Server.sh</title>
+    <title>download-LINUX-Personal-Server</title>
     <style>
         body {
             font-family: monospace;
